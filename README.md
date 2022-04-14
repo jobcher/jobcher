@@ -2,9 +2,12 @@
 [https://www.jobcher.com](https://www.jobcher.com)  
 [https://jobcher.github.io](https://jobcher.github.io)  
 
-### 查看博客目前的访问量
+### 书签导航
+[https://www.lrhat.com/](https://www.lrhat.com/)
 
-[https://umami.jobcher.com](https://umami.jobcher.com/share/6toIiyvY/%E6%89%93%E5%B7%A5%E4%BA%BA%E6%97%A5%E5%BF%97)  
+### 短链接(并不短）
+[https://s.lrhat.com/](https://s.lrhat.com/)
+
 I'm learning English...  
 Powered by jobcher  
 🔭 2022-01-14 🔭
@@ -22,4 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-

@@ -1,3 +1,4 @@
+![cat](https://raw.githubusercontent.com/jobcher/cat.gif/main/cat.gif)
 ### 在线博客 👋
 [https://www.jobcher.com](https://www.jobcher.com)  
 [https://jobcher.github.io](https://jobcher.github.io)  

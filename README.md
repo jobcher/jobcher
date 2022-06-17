@@ -2,7 +2,6 @@
   
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcher&show_icons=true&theme=radical)
 ### 在线博客 👋
 [https://www.jobcher.com](https://www.jobcher.com)  
 [https://jobcher.github.io](https://jobcher.github.io)  
@@ -13,6 +12,7 @@
 ### 短链接(并不短）
 [https://s.lrhat.com/](https://s.lrhat.com/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobcher&show_icons=true&theme=radical)]
 I'm learning English...  
 Powered by jobcher  
 🔭 2022-01-14 🔭

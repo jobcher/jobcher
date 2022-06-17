@@ -12,7 +12,7 @@
 ### 短链接(并不短）
 [https://s.lrhat.com/](https://s.lrhat.com/)  
   
-![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
+[![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
 
 I'm learning English...  
 Powered by jobcher  

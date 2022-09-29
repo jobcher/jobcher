@@ -5,6 +5,7 @@
 ### 在线博客 👋
 [https://www.jobcher.com](https://www.jobcher.com)  
 [https://jobcher.github.io](https://jobcher.github.io)  
+[ipns://ipfs.jobcher.com](ipns://ipfs.jobcher.com)
   
 ### 书签导航
 [https://www.lrhat.com/](https://www.lrhat.com/)  

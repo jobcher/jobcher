@@ -8,10 +8,10 @@
 [ipns://ipfs.jobcher.com](ipns://ipfs.jobcher.com)
   
 ### 书签导航
-[https://www.lrhat.com/](https://www.lrhat.com/)  
+[https://nav.jobcher.com/](https://nav.jobcher.com/)  
   
 ### 统计
-<a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true /></a>  
+<a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true"></a>  
   
 [![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
 

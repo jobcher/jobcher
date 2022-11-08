@@ -13,6 +13,7 @@
 ### 短链接(并不短）
 [https://s.lrhat.com/](https://s.lrhat.com/)  
   
+<a href=#><img src="contributions.svg"></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/jobcher/count.svg" />

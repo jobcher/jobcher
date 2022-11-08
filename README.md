@@ -11,7 +11,7 @@
 [https://www.lrhat.com/](https://www.lrhat.com/)  
   
 ### 统计
-<a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true></a>  
+<a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true /></a>  
   
 [![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
 

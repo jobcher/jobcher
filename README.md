@@ -13,12 +13,6 @@
 ### 短链接(并不短）
 [https://s.lrhat.com/](https://s.lrhat.com/)  
   
-<a href=#><img src="contributions.svg"></a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jobcher/count.svg" />
-</p>
-  
 [![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
 
 
@@ -26,6 +20,11 @@
 I'm learning English...  
 Powered by jobcher  
 🔭 2022-01-14 🔭
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jobcher/count.svg" />
+</p>
 <!--
 **jobcher/jobcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

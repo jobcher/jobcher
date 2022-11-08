@@ -13,10 +13,6 @@
 ### 统计
 <a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true"></a>  
   
-[![jobcher's github stats](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)](https://github-readme-stats.vercel.app/api?username=jobcher&count_private=true&show_icons=true&theme=swift)
-
-
-
 I'm learning English...  
 Powered by jobcher  
 🔭 2022-01-14 🔭

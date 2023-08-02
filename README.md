@@ -6,15 +6,12 @@
 ### 书签导航
 [https://nav.jobcher.com/](https://nav.jobcher.com/)  
   
-### 统计
-<a href=#><img src="https://raw.githubusercontent.com/jobcher/blog/output/github-snake.svg?raw=true"></a>  
-  
 I'm learning English...  
 Powered by jobcher  
 🔭 2022-01-14 🔭
 
 <p align="center"> 
-  Visitor count<br>
+  访问次数<br>
   <img src="https://profile-counter.glitch.me/jobcher/count.svg" />
 </p>
 <!--

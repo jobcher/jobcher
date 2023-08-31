@@ -10,6 +10,8 @@ I'm learning English...
 Powered by jobcher  
 🔭 2022-01-14 🔭
 
+![trophy](https://github-profile-trophy.vercel.app/?username=jobcher)
+
 <p align="center"> 
   访问次数<br>
   <img src="https://profile-counter.glitch.me/jobcher/count.svg" />

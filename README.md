@@ -1,4 +1,4 @@
-![gif](https://raw.githubusercontent.com/jobcher/jobcher/main/0.gif)
+![push_svg]([https://raw.githubusercontent.com/jobcher/jobcher/main/0.gif](https://raw.githubusercontent.com/jobcher/BEPb/output/github-contribution-grid-snake.svg))
 ### 在线博客 👋
 [https://www.jobcher.com](https://www.jobcher.com)  
 [https://jobcher.github.io](https://jobcher.github.io)  

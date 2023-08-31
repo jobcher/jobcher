@@ -5,10 +5,6 @@
   
 ### 书签导航
 [https://nav.jobcher.com/](https://nav.jobcher.com/)  
-  
-I'm learning English...  
-Powered by jobcher  
-🔭 2022-01-14 🔭
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jobcher)
 
@@ -16,6 +12,10 @@ Powered by jobcher
   访问次数<br>
   <img src="https://profile-counter.glitch.me/jobcher/count.svg" />
 </p>
+
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
 <!--
 **jobcher/jobcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
